@@ -1,0 +1,14 @@
+C:\Users\isacv\OneDrive\Área de Trabalho\exercícios\Algorítimos e ED\exercicesCSharp\maiorValor\bin\Debug\net7.0\maiorValor.exe
+C:\Users\isacv\OneDrive\Área de Trabalho\exercícios\Algorítimos e ED\exercicesCSharp\maiorValor\bin\Debug\net7.0\maiorValor.deps.json
+C:\Users\isacv\OneDrive\Área de Trabalho\exercícios\Algorítimos e ED\exercicesCSharp\maiorValor\bin\Debug\net7.0\maiorValor.runtimeconfig.json
+C:\Users\isacv\OneDrive\Área de Trabalho\exercícios\Algorítimos e ED\exercicesCSharp\maiorValor\bin\Debug\net7.0\maiorValor.dll
+C:\Users\isacv\OneDrive\Área de Trabalho\exercícios\Algorítimos e ED\exercicesCSharp\maiorValor\bin\Debug\net7.0\maiorValor.pdb
+C:\Users\isacv\OneDrive\Área de Trabalho\exercícios\Algorítimos e ED\exercicesCSharp\maiorValor\obj\Debug\net7.0\maiorValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isacv\OneDrive\Área de Trabalho\exercícios\Algorítimos e ED\exercicesCSharp\maiorValor\obj\Debug\net7.0\maiorValor.AssemblyInfoInputs.cache
+C:\Users\isacv\OneDrive\Área de Trabalho\exercícios\Algorítimos e ED\exercicesCSharp\maiorValor\obj\Debug\net7.0\maiorValor.AssemblyInfo.cs
+C:\Users\isacv\OneDrive\Área de Trabalho\exercícios\Algorítimos e ED\exercicesCSharp\maiorValor\obj\Debug\net7.0\maiorValor.csproj.CoreCompileInputs.cache
+C:\Users\isacv\OneDrive\Área de Trabalho\exercícios\Algorítimos e ED\exercicesCSharp\maiorValor\obj\Debug\net7.0\maiorValor.dll
+C:\Users\isacv\OneDrive\Área de Trabalho\exercícios\Algorítimos e ED\exercicesCSharp\maiorValor\obj\Debug\net7.0\refint\maiorValor.dll
+C:\Users\isacv\OneDrive\Área de Trabalho\exercícios\Algorítimos e ED\exercicesCSharp\maiorValor\obj\Debug\net7.0\maiorValor.pdb
+C:\Users\isacv\OneDrive\Área de Trabalho\exercícios\Algorítimos e ED\exercicesCSharp\maiorValor\obj\Debug\net7.0\maiorValor.genruntimeconfig.cache
+C:\Users\isacv\OneDrive\Área de Trabalho\exercícios\Algorítimos e ED\exercicesCSharp\maiorValor\obj\Debug\net7.0\ref\maiorValor.dll
